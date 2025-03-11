@@ -1,0 +1,10 @@
+SpeechRecognition==3.10.0
+pydub==0.25.1
+ffmpeg-python==0.2.0
+transformers>=4.30.2
+torch>=2.0.0
+torchaudio>=2.0.0
+datasets>=2.13.1
+sentencepiece>=0.1.99
+regex>=2022.10.31
+nltk>=3.8.1
